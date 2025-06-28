@@ -67,7 +67,7 @@
 
 #print("_______________________________________")
 
-string = input('Enter a string: ')
+string = input("Enter a string: ")
 
 words = string.split()
 max_word = ""
